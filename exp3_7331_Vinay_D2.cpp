@@ -1,3 +1,7 @@
+//Objects and classes are used to wrap related functions and data in one place.............So, the above statement is implemented by creating an array of object of Room class.
+
+
+
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
