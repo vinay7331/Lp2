@@ -1,3 +1,7 @@
+//Take a input from user with a positive integer.............Find sum of series where i-th term is sum of first i natural numbers.
+
+
+
 #include<iostream>
 using namespace std;
 class demo{
