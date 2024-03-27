@@ -1,4 +1,12 @@
-//Objects and classes are used to wrap related functions and data in one place.............So, the above statement is implemented by creating an array of object of Room class.
+// Objects and classes are used to wrap related functions and data in one place. An object is an entity that has
+state and behaviour. Here, state means data and behaviour means functionality.
+Create a class Room with Data members: length, breadth. Include functions get () and display () to get
+and display the data of room. Include two additional functions: area () and perimeter () to calculate the area
+and perimeter of the room. Implement the class by creating at least 5 objects of the class and display the area
+and perimeter of all 5 rooms.
+“An array is a data structure where values or items are placed in a linear order, which means the memory
+assigned to each item is contiguous. The data type of an array is the same for all the elements present in it.”
+So, the above statement is implemented by creating an array of object of Room class.
 
 
 
