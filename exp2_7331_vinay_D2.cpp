@@ -1,4 +1,8 @@
-//Take a input from user with a positive integer.............Find sum of series where i-th term is sum of first i natural numbers.
+// Take a input from user with a positive integer. Write a function to compute the sum of series where n is input
+by the user in the main function. Find sum of series where i-th term is sum of first i natural numbers.
+Input : n = 5
+Output : 35
+Explanation : (1) + (1+2) + (1+2+3) + (1+2+3+4) + (1+2+3+4+5) = 35
 
 
 
